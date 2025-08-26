@@ -5,3 +5,6 @@ Iteration 1.0.0: (24/08)
 Iteration 1.1.0 (25/08)
 +Implemented the routine and scoring in Compose
 + 3 hours
+Iteration 1.2.0 (26/08)
++Include land scape mode for the orientation switch 
++ 2 hours
