@@ -8,3 +8,5 @@ Iteration 1.1.0 (25/08)
 Iteration 1.2.0 (26/08)
 +Include land scape mode for the orientation switch 
 + 2 hours
+Iteration 1.2.5 (27/08)
++ import rememberSavable to save the scores for different orientation
