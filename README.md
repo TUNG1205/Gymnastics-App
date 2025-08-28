@@ -14,3 +14,6 @@ Iteration 1.3.0 (27/08):
 + Include debug logs in Logcat by importing util.log
 Iteration 1.3.5 (29/08)
 + Implement the SaveInstanceState upon orientation. 
+Iteration 1.4.0 (29/08)
++ Created res/values/strings.xml (EN default) and res/values-vi/strings.xml (Vietnamese)
++ When phone swithc language to Vietnamese, the application is translated. 
