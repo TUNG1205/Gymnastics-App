@@ -17,3 +17,6 @@ Iteration 1.3.5 (29/08)
 Iteration 1.4.0 (29/08)
 + Created res/values/strings.xml (EN default) and res/values-vi/strings.xml (Vietnamese)
 + When phone swithc language to Vietnamese, the application is translated. 
+Iteration 1.5.0 (29/08)
++ Added a localized dialog (Material3 AlertDialog) that appears once when the routine completes.
+
