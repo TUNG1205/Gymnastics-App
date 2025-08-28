@@ -12,3 +12,5 @@ Iteration 1.2.5 (27/08)
 + import rememberSavable to save the scores for different orientation
 Iteration 1.3.0 (27/08):
 + Include debug logs in Logcat by importing util.log
+Iteration 1.3.5 (29/08)
++ Implement the SaveInstanceState upon orientation. 
