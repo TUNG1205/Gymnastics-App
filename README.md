@@ -19,4 +19,5 @@ Iteration 1.4.0 (29/08)
 + When phone swithc language to Vietnamese, the application is translated. 
 Iteration 1.5.0 (29/08)
 + Added a localized dialog (Material3 AlertDialog) that appears once when the routine completes.
-
+Iteration 1.6.0 (30/08)
++ Extra Function: A Show Help Dialog that reminds users how the scoring works. 
