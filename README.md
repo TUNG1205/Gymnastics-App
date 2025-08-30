@@ -21,3 +21,5 @@ Iteration 1.5.0 (29/08)
 + Added a localized dialog (Material3 AlertDialog) that appears once when the routine completes.
 Iteration 1.6.0 (30/08)
 + Extra Function: A Show Help Dialog that reminds users how the scoring works. 
+Iteration 1.7.0 (30/08)
++ Improved UX/UI with Title and welcome message with a footer and Icon.
